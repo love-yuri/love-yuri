@@ -53,23 +53,10 @@
 ## ⚡ Github 数据
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=yuri2078&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=love-yuri&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
 </div>
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri2078&show_icons=true&theme=tokyonight" alt="Streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=love-yuri&show_icons=true&theme=tokyonight" alt="Streak stats"/>
 </div>
 
-## ⚡ 自己写的东西
-
-1. [所有学习阶段的代码](https://github.com/yuri2078/yuri)
-2. [Apollo planning模块](https://github.com/yuri2078/planning)
-3. [自己写的qt项目](https://github.com/yuri2078/yuriQt)
-4. [我的博客](https://yuri2078.github.io/)
-
-## ⚡ 引用
-
-- 背景图 [べねぼれ](https://twitter.com/benevolels)
-- [Github 数据](https://twitter.com/benevolels) 
-- [仓库布局](https://github.com/edisonlee55/edisonlee55)
-- [图标](https://shields.io/)
