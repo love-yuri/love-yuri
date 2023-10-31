@@ -1,6 +1,6 @@
 
 
-<h1 align="center" href = "https://yuri2078.github.io/">Hi, I'm <a>夏亦寒</a> !</h1>
+<h1 align="center" href = "https://yuri2078.github.io/">Hi, I'm <a>love-yuri</a> !</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 ### 👋 这不得结个婚？
