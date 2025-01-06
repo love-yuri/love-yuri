@@ -17,11 +17,6 @@
 
 -->
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=EAE1E7&center=true&vCenter=true&width=450&lines=std::println(%22%E6%88%91%E7%9A%84%E6%81%8B%E6%83%85%EF%BC%8C%E5%AE%9B%E5%A6%82%E5%AD%A4%E5%B2%9B%E4%B9%8B%E8%8A%B1%EF%BC%8C%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E5%9C%B0%E7%BB%BD%E6%94%BE%EF%BC%8C%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E5%9C%B0%E5%87%8B%E8%B0%A2%22)" />
-  </a>
-</div>
 
 
 ![](./yuri.png)
