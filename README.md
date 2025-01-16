@@ -63,9 +63,6 @@
 ## ⚡ Github 数据
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=love-yuri&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=love-yuri&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
 </div>
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=love-yuri&show_icons=true&theme=tokyonight" alt="Streak stats"/>
-</div>
