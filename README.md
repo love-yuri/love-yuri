@@ -63,6 +63,6 @@
 ## ⚡ Github 数据
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=love-yuri&show_icons=true&theme=radical" alt="love-yuri的commit记录"/>
+    <img src="https://readme-stats-azure-six.vercel.app/api?username=love-yuri&show_icons=true&theme=radical" alt="love-yuri的commit记录" />
 </div>
 
